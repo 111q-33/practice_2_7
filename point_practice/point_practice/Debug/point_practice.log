@@ -1,0 +1,36 @@
+﻿生成启动时间为 2021/2/7 17:46:09。
+     1>项目“C:\Users\code19\documents\visual studio 2013\Projects\point_practice\point_practice\point_practice.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt test.c
+         test.c
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(39): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(39): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(40): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(40): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(41): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(41): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(42): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(42): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(44): error C2374: “arr”: 重定义；多次初始化
+                 c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(29) : 参见“arr”的声明
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(54): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(54): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(55): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(55): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(56): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(56): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(57): warning C4047: “函数”:“const char *”与“char (*)[6]”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(57): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(69): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(69): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(70): warning C4047: “函数”:“const char *”与“char”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(70): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(71): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(71): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(72): warning C4047: “函数”:“const char *”与“char **”的间接级别不同
+     1>c:\users\code19\documents\visual studio 2013\projects\point_practice\point_practice\test.c(72): warning C4024: “strlen”: 形参和实参 1 的类型不同
+     1>已完成生成项目“C:\Users\code19\documents\visual studio 2013\Projects\point_practice\point_practice\point_practice.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.25
